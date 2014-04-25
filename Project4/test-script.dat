@@ -1,0 +1,6 @@
+url:http://cs.ucla.edu/classes/winter14/cs32/Projects/4/Data/fn_ln_age_kids_married_ssn_25k.csv
+qparam:LastName,A,B
+qparam:FirstName,G,H
+qparam:Age,010,020
+sparam:LastName,ascending
+execute

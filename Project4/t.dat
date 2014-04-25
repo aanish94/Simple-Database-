@@ -1,0 +1,5 @@
+url:http://cs.ucla.edu/classes/winter14/cs32/Projects/4/Data/census.csv
+qparam:name,Z,
+sparam:name,ascending
+sparam:healthScore,ascending
+execute
